@@ -1,0 +1,6 @@
+__pycache__
+reportes/*
+config.ini
+data.db
+proceso.log
+test.py
